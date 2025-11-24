@@ -1,3 +1,6 @@
+#My name: Arianna Peguero
+#Who I collaborated with: Jennifer Li & Prithika Sathyan Poornima
+
 choice = input("Welcome to Quick Math Calculater! Do you want to do addition or subtraction?")
 
 if choice == "addition":
